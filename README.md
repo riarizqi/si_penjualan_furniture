@@ -2,4 +2,5 @@
 Sistem Informasi Penjualan Furniture
 
 Halaman admin : furniture/autentifikasi
+
 Halaman user : furniture/home
